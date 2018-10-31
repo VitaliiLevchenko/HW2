@@ -1,0 +1,33 @@
+body {
+    padding: 5% 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h1, .names, .corp {
+    text-align: center;
+}
+.names {
+    font-size: 30px;
+}
+.corp {
+    font-size: 26px;
+}
+.center {
+    text-align: center;
+}
+span {
+    text-decoration: underline;
+}
+.image1 {
+    width: 420px;
+    height: auto;
+    float: left;
+    padding: 10px 10px 10px 0;
+}
+.right {
+    text-align: right;
+}
+.image2 {
+    display: block;
+    margin: auto;
+}
